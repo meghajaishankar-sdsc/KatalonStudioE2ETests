@@ -1,0 +1,1 @@
+# KatalonStudioE2ETests
