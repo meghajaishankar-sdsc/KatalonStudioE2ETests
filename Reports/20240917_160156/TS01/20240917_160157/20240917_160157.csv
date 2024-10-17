@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS01,Chrome 128.0.0.0,,,17-09-2024 16:02:00,17-09-2024 16:02:22,21.712s,PASSED
+,,,,,,,
+Test Cases/TC01,Chrome 128.0.0.0,,,17-09-2024 16:02:00,17-09-2024 16:02:13,13.307s,PASSED
+"openBrowser("""")",Chrome 128.0.0.0,,,17-09-2024 16:02:00,17-09-2024 16:02:02,2.225s,PASSED
+"navigateToUrl(""https://svp.sbs-stg.surgicalvideo.io/auth"")",Chrome 128.0.0.0,,,17-09-2024 16:02:02,17-09-2024 16:02:04,1.757s,PASSED
+"setText(findTestObject(""Object Repository/Page_Surgical Video/input_Email_sharedInput""), ""svp2903@mailinator.com"")",Chrome 128.0.0.0,,,17-09-2024 16:02:04,17-09-2024 16:02:05,0.809s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Surgical Video/input_Password_sharedInput""), ""7YYAPzqgNw77WVoSql9amg=="")",Chrome 128.0.0.0,,,17-09-2024 16:02:05,17-09-2024 16:02:05,0.346s,PASSED
+"click(findTestObject(""Object Repository/Page_Surgical Video/button_Sign In""))",Chrome 128.0.0.0,,,17-09-2024 16:02:05,17-09-2024 16:02:05,0.306s,PASSED
+"click(findTestObject(""Object Repository/Page_Surgical Video/div_Tr""))",Chrome 128.0.0.0,,,17-09-2024 16:02:05,17-09-2024 16:02:10,4.259s,PASSED
+"click(findTestObject(""Object Repository/Page_Surgical Video/div_logoutLog Out""))",Chrome 128.0.0.0,,,17-09-2024 16:02:10,17-09-2024 16:02:12,2.295s,PASSED
+"click(findTestObject(""Object Repository/Page_Surgical Video/button_Confirm""))",Chrome 128.0.0.0,,,17-09-2024 16:02:12,17-09-2024 16:02:13,1.020s,PASSED
+closeBrowser(),Chrome 128.0.0.0,,,17-09-2024 16:02:13,17-09-2024 16:02:13,0.174s,PASSED
+,,,,,,,
+Test Cases/TC02,Chrome 128.0.0.0,,,17-09-2024 16:02:13,17-09-2024 16:02:22,8.341s,PASSED
+"openBrowser("""")",Chrome 128.0.0.0,,,17-09-2024 16:02:13,17-09-2024 16:02:14,0.724s,PASSED
+"navigateToUrl(""https://svp.sbs-stg.surgicalvideo.io/auth"")",Chrome 128.0.0.0,,,17-09-2024 16:02:14,17-09-2024 16:02:15,0.844s,PASSED
+"setText(findTestObject(""Object Repository/Page_Surgical Video/input_Email_sharedInput""), ""meghaabc@mailinator.com"")",Chrome 128.0.0.0,,,17-09-2024 16:02:15,17-09-2024 16:02:15,0.565s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Surgical Video/input_Password_sharedInput""), ""8tmQP900cn+KcSNHKgJU7Q=="")",Chrome 128.0.0.0,,,17-09-2024 16:02:15,17-09-2024 16:02:16,0.266s,PASSED
+"click(findTestObject(""Object Repository/Page_Surgical Video/button_Sign In""))",Chrome 128.0.0.0,,,17-09-2024 16:02:16,17-09-2024 16:02:16,0.267s,PASSED
+"click(findTestObject(""Object Repository/Page_Surgical Video/div_ee""))",Chrome 128.0.0.0,,,17-09-2024 16:02:16,17-09-2024 16:02:20,4.095s,PASSED
+"click(findTestObject(""Object Repository/Page_Surgical Video/p_Log Out""))",Chrome 128.0.0.0,,,17-09-2024 16:02:20,17-09-2024 16:02:21,0.455s,PASSED
+"click(findTestObject(""Object Repository/Page_Surgical Video/button_Confirm""))",Chrome 128.0.0.0,,,17-09-2024 16:02:21,17-09-2024 16:02:21,0.984s,PASSED
+closeBrowser(),Chrome 128.0.0.0,,,17-09-2024 16:02:21,17-09-2024 16:02:22,0.089s,PASSED

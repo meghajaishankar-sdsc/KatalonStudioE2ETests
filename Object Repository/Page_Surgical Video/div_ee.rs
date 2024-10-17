@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c82fae38-6ec8-4b6d-8240-095179b05511</webElementGuid>
+      <webElementGuid>98621d2d-7ad2-4e75-8005-a6ae81111802</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>top-panel-avatar</value>
-      <webElementGuid>16caf71e-83d8-4097-837b-d1eb03d37bef</webElementGuid>
+      <webElementGuid>610ed639-fbba-4582-b0af-296f2e9c7406</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>user-initials</value>
-      <webElementGuid>07c1c821-e7b0-4e50-9cb7-c37e7563d57f</webElementGuid>
+      <webElementGuid>367dbf31-0ec3-410e-845f-d18dc75c94c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value> ee </value>
-      <webElementGuid>4a5356e8-36e9-4722-a30f-93a2cbc8ae20</webElementGuid>
+      <webElementGuid>d8766013-546e-45c1-a118-f117f895f3db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;top-panel-avatar&quot;)</value>
-      <webElementGuid>b5c70a0d-608c-4dcb-88ae-3f0e796bef9f</webElementGuid>
+      <webElementGuid>8ef83f24-76ca-4d8e-8b12-1bdf36fef4a9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='top-panel-avatar']</value>
-      <webElementGuid>2f28b896-6c62-4f7d-9e75-96dc6895f5f6</webElementGuid>
+      <webElementGuid>5bc25c0b-db21-40b6-8cf2-4a3da0709f0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Test123'])[1]/preceding::div[2]</value>
-      <webElementGuid>e6db7498-c1e1-4e5b-ba43-563d7d971a55</webElementGuid>
+      <webElementGuid>61fdb312-c21e-4a0f-ad5c-69d8f8c15a5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='ee']/parent::*</value>
-      <webElementGuid>df0bbeeb-9670-4774-88c3-964a67cf42b4</webElementGuid>
+      <webElementGuid>1711f850-1400-4856-9bbe-4880385ebaf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div</value>
-      <webElementGuid>aa475ad4-90de-49f3-946e-2de0f49b1124</webElementGuid>
+      <webElementGuid>beea419c-6802-4f82-afda-97b68e8c4ce1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'top-panel-avatar' and (text() = ' ee ' or . = ' ee ')]</value>
-      <webElementGuid>482ce0b1-22d5-4761-bd8c-680d0f475999</webElementGuid>
+      <webElementGuid>fbb46220-dd6a-46c0-8712-59887ae1bd53</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

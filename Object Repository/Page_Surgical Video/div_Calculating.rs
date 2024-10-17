@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Calculating</name>
+   <tag></tag>
+   <elementGuidId>4ca9ec68-c193-4aee-9061-48b44b5ff7b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Uploading 1 file'])[1]/following::div[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.calculate-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Calculating...&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>308e7c5e-5821-4fc9-87d8-7486780c52d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calculate-message</value>
+      <webElementGuid>380c189f-0404-4994-b4ae-cc99392293dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Calculating...</value>
+      <webElementGuid>ea75efdc-6490-4370-935d-85585eb28470</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/app-layout[1]/div[@class=&quot;content-wrapper&quot;]/app-left-panel[1]/div[@class=&quot;menu mobile-view&quot;]/app-side-menu[1]/div[@class=&quot;wrapper&quot;]/app-files-upload-status[1]/div[@class=&quot;download-progress-container&quot;]/ng-scrollbar[@class=&quot;file-container ng-scrollbar&quot;]/div[@class=&quot;ng-scrollbar-wrapper&quot;]/div[@class=&quot;ng-scroll-viewport-wrapper&quot;]/div[@class=&quot;ng-native-scrollbar-hider ng-scroll-viewport&quot;]/div[@class=&quot;ng-scroll-content&quot;]/div[@class=&quot;upload-info during-upload loading ng-star-inserted&quot;]/div[@class=&quot;icon-and-name-wrapper&quot;]/div[@class=&quot;calculate-message&quot;]</value>
+      <webElementGuid>1488d966-d2b1-4ba7-acc0-0dad8b920141</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uploading 1 file'])[1]/following::div[10]</value>
+      <webElementGuid>2094e1bd-6f6c-45ee-8717-964c86d8ad41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/preceding::div[3]</value>
+      <webElementGuid>09871829-9161-4396-b62e-bec99716f93a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/preceding::div[4]</value>
+      <webElementGuid>beb61d2b-ac04-448a-9cbc-8facd6fd588d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Calculating...']/parent::*</value>
+      <webElementGuid>faf88881-34aa-42d6-baf8-02ae20b3eb36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>6daeefe8-d8de-415f-9f83-77bb762f14d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Calculating...' or . = 'Calculating...')]</value>
+      <webElementGuid>271c9a55-7dbd-400e-bbe6-9bd33d038cb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

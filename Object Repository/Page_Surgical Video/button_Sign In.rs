@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8308f804-f980-401f-a687-ace37b238478</webElementGuid>
+      <webElementGuid>fcf25fa5-03cf-4a48-83e0-01c7bd222e0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>39d01d82-c4a2-4de1-9c02-e38f3e88c214</webElementGuid>
+      <webElementGuid>6795766b-536b-4e97-bc70-4c840786a0f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>login-flow-cta-button</value>
-      <webElementGuid>1790cfbe-376a-415c-943c-c8daf5187c08</webElementGuid>
+      <webElementGuid>237dd891-b756-48bd-8fa3-2fde7d218e4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>ng-reflect-ng-class</name>
       <type>Main</type>
       <value>[object Object]</value>
-      <webElementGuid>6cd1e2c4-166d-45c5-9621-04442d0fe032</webElementGuid>
+      <webElementGuid>a1b85d93-bdc7-497d-a56e-ad555f867c5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Sign In </value>
-      <webElementGuid>08e43e69-a2fc-44f7-98d9-30d7bfe08572</webElementGuid>
+      <webElementGuid>e9d712b5-7619-424e-8027-009abcc5907b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/app-layout[1]/div[1]/div[@class=&quot;login-container&quot;]/div[@class=&quot;center-wrapper&quot;]/app-login[1]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;buttons-container&quot;]/button[@class=&quot;login-flow-cta-button&quot;]</value>
-      <webElementGuid>db10797a-640e-4fc9-aeb6-3810349c6492</webElementGuid>
+      <webElementGuid>4ba1ee31-0b0e-4baa-9e9e-1b25faa3e81d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>63cf2f5e-8a83-4e15-8d3d-9bdd292110b2</webElementGuid>
+      <webElementGuid>3d529ac4-6154-4ae9-a287-97b16a0fae26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/following::button[1]</value>
-      <webElementGuid>85717f9e-0b1d-4f80-be01-2438b20b3590</webElementGuid>
+      <webElementGuid>cdc7e7a8-e7b2-4b7f-9df9-4c40a62f83b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>382bb25a-f515-42d9-ba5c-1d98e844cb6d</webElementGuid>
+      <webElementGuid>14b2f3de-6d1a-4e94-ad30-1b35d087d33d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/preceding::button[1]</value>
-      <webElementGuid>4d5ba94f-e01a-4e1c-ad79-b42d52474a5c</webElementGuid>
+      <webElementGuid>4c01a58c-196b-4441-8e85-1fc0ba4d6b76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[1]/preceding::button[1]</value>
-      <webElementGuid>a8d923e4-4cba-4925-bd2b-e271d688413e</webElementGuid>
+      <webElementGuid>8f9485f2-4c0e-4209-b2ff-4f65576e45d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>cf7e0cf8-d9f0-441b-8e68-f81e1d94220b</webElementGuid>
+      <webElementGuid>272feb5f-2e3b-4047-8ee7-a7437ea3718e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>bfc09012-2e08-45b8-87e8-5cf9ab8eadc7</webElementGuid>
+      <webElementGuid>800fe10c-40bc-4576-8dc8-0331507995bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = ' Sign In ' or . = ' Sign In ')]</value>
-      <webElementGuid>a577d87a-44f0-4ff1-82b4-d8bf286dddeb</webElementGuid>
+      <webElementGuid>dd2924e3-bd10-49e2-aefe-344eb4cbe8e8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

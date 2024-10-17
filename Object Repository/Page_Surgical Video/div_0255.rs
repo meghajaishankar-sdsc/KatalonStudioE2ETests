@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_0255</name>
+   <tag></tag>
+   <elementGuidId>9c1f3819-8ea3-456d-b9e7-ab52686e4e9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='(Optional)'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.procedure-description-input-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^0/255$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c7feb018-577b-4a39-bc54-096b4eb7c5d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>procedure-description-input-container</value>
+      <webElementGuid>6d52a2b5-8e0a-453b-85c4-b2a6aee3c7bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0/255</value>
+      <webElementGuid>9fe64897-f998-4d52-9452-563db9dbad42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/app-layout[1]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;content&quot;]/app-my-procedures[@class=&quot;ng-tns-c2724626422-0 ng-star-inserted&quot;]/app-popup-modal[@class=&quot;ng-tns-c2724626422-0&quot;]/div[@class=&quot;modal-overlay ng-star-inserted&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-content&quot;]/app-create-procedure[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;create-procedure-container&quot;]/form[@class=&quot;create-procedure-body ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;procedure-description&quot;]/div[@class=&quot;procedure-description-input-container&quot;]</value>
+      <webElementGuid>ad683442-27b8-4366-892b-0476d7de6692</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Optional)'])[1]/following::div[1]</value>
+      <webElementGuid>2c74e7f7-98b7-4f6e-8053-a54b8f8707e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Private'])[3]/preceding::div[2]</value>
+      <webElementGuid>d91c1794-ba15-4e2c-8caf-0d3a91da012e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Only people you shared with can view the procedure.'])[1]/preceding::div[5]</value>
+      <webElementGuid>d9807edb-da3d-4c5e-919a-433e92762476</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/div</value>
+      <webElementGuid>06bb37e0-d909-4ea0-904e-466dbcb1f1b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '0/255' or . = '0/255')]</value>
+      <webElementGuid>d994b6bb-7f01-4ef8-b70d-9bd2e76ab02b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

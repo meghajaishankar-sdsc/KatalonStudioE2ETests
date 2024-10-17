@@ -1,3 +1,44 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Surgical Video/input_Email_sharedInput",
+      "brokenLocator": "(//input[@type\u003d\u0027text\u0027])[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//app-label-input/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Surgical Video/input_Email_sharedInput_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Surgical Video/div_Microdiscectomy",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Endoscopic Third Ventriculostomy\u0027])[2]/following::div[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027(Optional)\u0027])[1]/preceding::div[7]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Surgical Video/div_Microdiscectomy_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Surgical Video/div_Upload Files",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Drag and drop the selected files here or click\u0027])[1]/following::div[5]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Draft\u0027])[1]/preceding::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Surgical Video/div_Upload Files_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Surgical Video/h3_Create Procedure",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Finalized\u0027])[3]/following::h3[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Name*\u0027])[1]/preceding::h3[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Surgical Video/h3_Create Procedure_neighbor.png"
+    }
+  ]
 }

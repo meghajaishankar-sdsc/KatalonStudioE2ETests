@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_donePrivate</name>
+   <tag></tag>
+   <elementGuidId>44bf66f4-a1c8-4bc3-941e-97fc805ba2aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Private'])[3]/following::div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.selection-card.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;donePrivate&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e3cd3496-5ff9-43bf-937e-3ad5b5a442f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selection-card ng-star-inserted</value>
+      <webElementGuid>e01f0d14-efb8-46dd-b7eb-fb2690612bf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-style</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>4e2e5257-ede1-4c6f-a6d5-d4e5d69bfb8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>donePrivate</value>
+      <webElementGuid>7ed59c50-d776-452c-b140-5492ed0921b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/app-layout[1]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;content&quot;]/app-my-procedures[@class=&quot;ng-tns-c2724626422-0 ng-star-inserted&quot;]/app-popup-modal[@class=&quot;ng-tns-c2724626422-0&quot;]/div[@class=&quot;modal-overlay ng-star-inserted&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-content&quot;]/app-create-procedure[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;create-procedure-container&quot;]/form[@class=&quot;create-procedure-body ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;all-platform-access-container ng-star-inserted&quot;]/div[@class=&quot;all-platform-access-info&quot;]/div[@class=&quot;all-platform-access-text&quot;]/div[@class=&quot;all-platform-access-text-header&quot;]/div[@class=&quot;icon-button-container&quot;]/div[@class=&quot;icon-button&quot;]/app-dropdown-menu[1]/div[@class=&quot;dropdown-menu ng-star-inserted&quot;]/div[@class=&quot;selection-card ng-star-inserted&quot;]</value>
+      <webElementGuid>fe39c2b5-1e59-416d-9347-3ee6b8194923</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Private'])[3]/following::div[4]</value>
+      <webElementGuid>b4e278a7-7e44-4187-8401-3ceaa6751493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Optional)'])[1]/following::div[10]</value>
+      <webElementGuid>4163e36f-603c-4f0a-9125-a65c11fe357e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Only people you shared with can view the procedure.'])[1]/preceding::div[2]</value>
+      <webElementGuid>ebadb5eb-c4f9-4c66-a4f5-1852e331052e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/preceding::div[3]</value>
+      <webElementGuid>45a6dd9f-fcc0-4b40-af12-5aab92cde229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-dropdown-menu/div/div</value>
+      <webElementGuid>802b93e9-f73f-4018-a9e0-c8b3c14dff05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'donePrivate' or . = 'donePrivate')]</value>
+      <webElementGuid>86001701-dcbc-4fe3-809c-ebed80d0ab03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

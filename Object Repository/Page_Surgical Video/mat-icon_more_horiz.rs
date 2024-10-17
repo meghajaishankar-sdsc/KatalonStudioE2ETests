@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_more_horiz</name>
+   <tag></tag>
+   <elementGuidId>bb80fab8-3675-4aa3-8df6-a217e32a05a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Procedure Description:'])[1]/preceding::mat-icon[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.video-details-menu.desktop-menu.ng-star-inserted > mat-icon.mat-icon.notranslate.material-icons.mat-ligature-font.mat-icon-no-color</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;more_horiz&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>db967574-580f-4f03-b518-09c29a6d1e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>db39c0e0-b9c4-40f2-9413-217e1a85977f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate material-icons mat-ligature-font mat-icon-no-color</value>
+      <webElementGuid>e829f0bd-2375-4c04-ae7b-d136d2a6a2c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5621668c-1321-4e6a-b551-0afbe3bd7fa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-type</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>eb3e67c1-5711-43f1-92b3-cbea06c49771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> more_horiz </value>
+      <webElementGuid>fc51c752-0ab1-4f6f-9161-6e692fe5db92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/app-layout[1]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;content&quot;]/app-video-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex-column&quot;]/div[@class=&quot;wrapper ng-star-inserted&quot;]/div[@class=&quot;video-and-notes-wrapper&quot;]/div[@class=&quot;video-container ng-star-inserted&quot;]/div[@class=&quot;under-video ng-star-inserted&quot;]/div[@class=&quot;name-and-options&quot;]/div[@class=&quot;procedure-options&quot;]/div[@class=&quot;video-details-menu desktop-menu ng-star-inserted&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-ligature-font mat-icon-no-color&quot;]</value>
+      <webElementGuid>0ae62ab3-f0c0-4cce-87e6-5dbaef82f57d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Procedure Description:'])[1]/preceding::mat-icon[2]</value>
+      <webElementGuid>ce0de31b-de77-49ea-ba43-aac674a43887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='more_horiz']/parent::*</value>
+      <webElementGuid>b8bb411b-ae8b-4b5d-beaa-6bd62c4b5523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/mat-icon</value>
+      <webElementGuid>3779602a-0215-4b2a-b0cb-d16b1f906ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = ' more_horiz ' or . = ' more_horiz ')]</value>
+      <webElementGuid>160a3c9d-acb6-452c-928d-2fe5664015df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

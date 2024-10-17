@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Confirm</name>
+   <name>button_create_new_folder Create Procedure</name>
    <tag></tag>
-   <elementGuidId>04136afb-fb05-4034-aed6-79525d8d75e2</elementGuidId>
+   <elementGuidId>4222505e-6e63-4187-a4c1-72d802f5a700</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -11,14 +11,14 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.button.primary-button</value>
+         <value>button.button.has-icon.secondary-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Confirm&quot;i]</value>
+         <value>internal:role=button[name=&quot;Create Procedure&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3f79e627-dc67-45d4-8a59-11b3e8ac02ea</webElementGuid>
+      <webElementGuid>d2da7e95-cce4-4cc1-be7b-d324593a5667</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>button primary-button</value>
-      <webElementGuid>e9c58262-29de-4a89-9033-f9330b4e5879</webElementGuid>
+      <value>button has-icon secondary-button</value>
+      <webElementGuid>c4602955-5fce-4a28-ad55-f7f727a4f24f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>ng-reflect-ng-style</name>
       <type>Main</type>
       <value>[object Object]</value>
-      <webElementGuid>1072a17e-50b9-4643-9d7f-fd30e1636b23</webElementGuid>
+      <webElementGuid>b735d6d1-a224-422b-ad33-11531ce2bb14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,24 +53,24 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>213b27d6-0536-4e0a-850f-b01631e3ad35</webElementGuid>
+      <webElementGuid>a656d464-9e1e-46a7-aac2-f4b658bd3c32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Confirm
+      <value>create_new_folder Create Procedure
 </value>
-      <webElementGuid>35863d77-ffa5-4eb6-b8b9-33d4a085e825</webElementGuid>
+      <webElementGuid>377af0fb-c284-4f2a-b22f-248c76b88980</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/app-layout[1]/app-top-panel[@class=&quot;top-panel&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;right-group&quot;]/app-popup-modal[1]/div[@class=&quot;modal-overlay ng-star-inserted&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-content no-close-padding&quot;]/app-logout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;logout-wrapper&quot;]/div[@class=&quot;logout-buttons&quot;]/app-button[@class=&quot;logout-button&quot;]/button[@class=&quot;button primary-button&quot;]</value>
-      <webElementGuid>0cfe4366-2625-44c2-bdbd-9c4cbe6b0436</webElementGuid>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/app-layout[1]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;content&quot;]/app-my-procedures[@class=&quot;ng-tns-c2724626422-0 ng-star-inserted&quot;]/div[@class=&quot;wrapper ng-tns-c2724626422-0&quot;]/div[@class=&quot;container ng-tns-c2724626422-0 ng-star-inserted&quot;]/div[@class=&quot;videos ng-tns-c2724626422-0&quot;]/div[@class=&quot;header ng-tns-c2724626422-0&quot;]/div[@class=&quot;header-menu ng-tns-c2724626422-0 ng-star-inserted&quot;]/app-button[@class=&quot;hide-on-mobile ng-tns-c2724626422-0 ng-star-inserted&quot;]/button[@class=&quot;button has-icon secondary-button&quot;]</value>
+      <webElementGuid>ec712138-ba59-4a56-b240-039a497e4a31</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,56 +78,40 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>1608eb81-119b-4d78-a978-5032528cd145</webElementGuid>
+      <webElementGuid>39742670-9cf1-4e9a-aabe-314efa9720d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to logout?'])[1]/following::button[1]</value>
-      <webElementGuid>aee71d3b-2842-4015-852b-2f2c99f3b10e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Status'])[1]/following::button[3]</value>
+      <webElementGuid>59a2c560-9f1b-4a5f-80cb-7a17215268c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ee'])[1]/following::button[1]</value>
-      <webElementGuid>4e571785-5fa4-4524-b3c0-431d158dbc6f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
-      <webElementGuid>a8363874-890d-4d81-ad19-e3057dbf1d60</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
-      <webElementGuid>eabac61a-d490-4754-8275-a6cd2e9369f8</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Create Procedure']/parent::*</value>
+      <webElementGuid>f19032e7-1b59-4ec3-b6a3-a85101fb1396</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//app-logout/div/div/app-button/button</value>
-      <webElementGuid>da0c87ef-8e3a-44a5-bce8-1995be39e64d</webElementGuid>
+      <value>//div/div/div/app-button/button</value>
+      <webElementGuid>7b106506-549d-4073-bdd7-7fe85e778d53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = ' Confirm
-' or . = ' Confirm
+      <value>//button[@type = 'button' and (text() = 'create_new_folder Create Procedure
+' or . = 'create_new_folder Create Procedure
 ')]</value>
-      <webElementGuid>3080aebc-a1d7-4083-8360-f0f14bbde4f0</webElementGuid>
+      <webElementGuid>65edec0e-faf2-49dc-a66b-8d2eaca78e9f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

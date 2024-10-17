@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4c3eb5f2-6e68-446a-85e8-d805bc91c0a3</webElementGuid>
+      <webElementGuid>7058c2ab-12b8-4eae-9c82-8cf210e1e2b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sharedInput</value>
-      <webElementGuid>6af11bdf-fec2-4f7e-be14-6ee61fc8e8f3</webElementGuid>
+      <webElementGuid>9ed6d5bd-6b7d-414b-83a8-736ac8661e8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>6e7313c4-8c58-4dd7-8305-abc8f2fb4b79</webElementGuid>
+      <webElementGuid>55bcab79-a6bd-47b9-a3c4-69c45ccc1c5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Your Email</value>
-      <webElementGuid>8e7677a6-ce80-4583-a3d3-a3e74a08c069</webElementGuid>
+      <webElementGuid>6795d679-fad4-476c-a3aa-f636a85c735b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>ng-reflect-ng-class</name>
       <type>Main</type>
       <value>[object Object]</value>
-      <webElementGuid>a4418790-c84f-4a22-a1c2-10c965c4fcc0</webElementGuid>
+      <webElementGuid>1fa8162f-f94d-4c0f-b11d-a05379634b15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>3bbabe6a-aea1-4d70-b3e4-73528a78264a</webElementGuid>
+      <webElementGuid>96755de3-9ba2-4a31-be32-a66ca246575f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/app-layout[1]/div[1]/div[@class=&quot;login-container&quot;]/div[@class=&quot;center-wrapper&quot;]/app-login[1]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;input-fields-error-wrapper&quot;]/div[@class=&quot;input-fields&quot;]/app-label-input[@class=&quot;mb-16 ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;label-input-container&quot;]/input[@class=&quot;sharedInput&quot;]</value>
-      <webElementGuid>352e943e-3fc7-44bc-b803-96426159b0c9</webElementGuid>
+      <webElementGuid>a2d9a078-6f22-4aab-83aa-0ded1981a69a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='text']</value>
-      <webElementGuid>7aee6192-c6f9-4a00-86f6-5781c0d93c87</webElementGuid>
+      <webElementGuid>56c0ffc7-98e7-48f7-9a8c-384d500c7670</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>14483c91-7e6f-44d3-8d61-f9542d7262c1</webElementGuid>
+      <webElementGuid>77a39e55-fde7-4d9d-8d52-38d21c3c8edb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Your Email']</value>
-      <webElementGuid>bd53d3e8-9fd2-4b94-884f-a3232e102361</webElementGuid>
+      <webElementGuid>f7f12867-5277-4a73-9255-85f20c24cda7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

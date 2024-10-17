@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Confirm</name>
+   <name>button_Create</name>
    <tag></tag>
-   <elementGuidId>04136afb-fb05-4034-aed6-79525d8d75e2</elementGuidId>
+   <elementGuidId>2a4e0f3e-afa8-4ced-8228-efde3f4c5875</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
+         <value>//button[@type='submit']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Confirm&quot;i]</value>
+         <value>internal:role=button[name=&quot;Create&quot;s]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3f79e627-dc67-45d4-8a59-11b3e8ac02ea</webElementGuid>
+      <webElementGuid>6c01c540-aec0-4458-a155-30d5cee21529</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button primary-button</value>
-      <webElementGuid>e9c58262-29de-4a89-9033-f9330b4e5879</webElementGuid>
+      <webElementGuid>1a173cfe-9e15-44bc-8f7c-b36f5fa416fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,56 +45,56 @@
       <name>ng-reflect-ng-style</name>
       <type>Main</type>
       <value>[object Object]</value>
-      <webElementGuid>1072a17e-50b9-4643-9d7f-fd30e1636b23</webElementGuid>
+      <webElementGuid>9fd62fd5-0ff8-4688-9dec-37f2a598135f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>213b27d6-0536-4e0a-850f-b01631e3ad35</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>10fc0521-d087-4b15-83e6-3d017d4e2759</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Confirm
+      <value> Create
 </value>
-      <webElementGuid>35863d77-ffa5-4eb6-b8b9-33d4a085e825</webElementGuid>
+      <webElementGuid>8519005b-a847-4a1c-a397-c3b1dfb56679</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/app-layout[1]/app-top-panel[@class=&quot;top-panel&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;right-group&quot;]/app-popup-modal[1]/div[@class=&quot;modal-overlay ng-star-inserted&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-content no-close-padding&quot;]/app-logout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;logout-wrapper&quot;]/div[@class=&quot;logout-buttons&quot;]/app-button[@class=&quot;logout-button&quot;]/button[@class=&quot;button primary-button&quot;]</value>
-      <webElementGuid>0cfe4366-2625-44c2-bdbd-9c4cbe6b0436</webElementGuid>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/app-layout[1]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;content&quot;]/app-my-procedures[@class=&quot;ng-tns-c2724626422-0 ng-star-inserted&quot;]/app-popup-modal[@class=&quot;ng-tns-c2724626422-0&quot;]/div[@class=&quot;modal-overlay ng-star-inserted&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-content&quot;]/app-create-procedure[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;create-procedure-container&quot;]/form[@class=&quot;create-procedure-body ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;create-procedure-buttons&quot;]/app-button[1]/button[@class=&quot;button primary-button&quot;]</value>
+      <webElementGuid>16bec28a-d8a8-41c9-ba88-1ce49fa858cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>1608eb81-119b-4d78-a978-5032528cd145</webElementGuid>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>2af3439c-8d4e-4e62-af64-3b9bab1ebd49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to logout?'])[1]/following::button[1]</value>
-      <webElementGuid>aee71d3b-2842-4015-852b-2f2c99f3b10e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Only people you shared with can view the procedure.'])[1]/following::button[1]</value>
+      <webElementGuid>3a35fd9c-0af9-499a-9936-30256bc2868a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ee'])[1]/following::button[1]</value>
-      <webElementGuid>4e571785-5fa4-4524-b3c0-431d158dbc6f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Private'])[3]/following::button[1]</value>
+      <webElementGuid>4edda53e-939b-477e-835c-fecd73d87466</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,32 +102,32 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
-      <webElementGuid>a8363874-890d-4d81-ad19-e3057dbf1d60</webElementGuid>
+      <webElementGuid>73129680-f6b1-40be-ab6c-91cb38f1877a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
-      <webElementGuid>eabac61a-d490-4754-8275-a6cd2e9369f8</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
+      <webElementGuid>eb8ef77d-7377-4af6-aae1-e5bedc156357</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//app-logout/div/div/app-button/button</value>
-      <webElementGuid>da0c87ef-8e3a-44a5-bce8-1995be39e64d</webElementGuid>
+      <value>//div[5]/app-button/button</value>
+      <webElementGuid>4b1b917a-6448-425c-b7de-7468b7589814</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = ' Confirm
-' or . = ' Confirm
+      <value>//button[@type = 'submit' and (text() = ' Create
+' or . = ' Create
 ')]</value>
-      <webElementGuid>3080aebc-a1d7-4083-8360-f0f14bbde4f0</webElementGuid>
+      <webElementGuid>e6b10f7f-64fc-413d-8c93-13723261bf19</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bdfb7211-020f-4595-9576-a20979acb4f1</webElementGuid>
+      <webElementGuid>da19dc69-7b61-485b-9d5d-8c6f7f2db78a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sharedInput</value>
-      <webElementGuid>cae15a44-9ebf-44f2-84eb-295d0e725785</webElementGuid>
+      <webElementGuid>a9c0f30c-404d-4062-816c-4815bd527652</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>e64e9e54-08c6-4ce3-9241-fdbedf506492</webElementGuid>
+      <webElementGuid>fe89b40c-78cb-459c-b8c8-75687b830c37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Your Password</value>
-      <webElementGuid>1a6dedea-e11e-4769-a679-c17cd52aba7f</webElementGuid>
+      <webElementGuid>f8efe50f-38b0-4b17-8e07-21e00c51a5cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>ng-reflect-ng-class</name>
       <type>Main</type>
       <value>[object Object]</value>
-      <webElementGuid>66f22260-d2f9-43aa-8a1a-f664a3f32af3</webElementGuid>
+      <webElementGuid>4b594b8d-d62c-42e1-b244-b90601890b6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>current-password</value>
-      <webElementGuid>ad685dc0-c949-4861-9e07-0ec050a8d878</webElementGuid>
+      <webElementGuid>ae0d00af-ac2e-472c-b2fa-7dcbf5fc76f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/app-layout[1]/div[1]/div[@class=&quot;login-container&quot;]/div[@class=&quot;center-wrapper&quot;]/app-login[1]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;input-fields-error-wrapper&quot;]/div[@class=&quot;input-fields&quot;]/app-label-input[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;label-input-container&quot;]/input[@class=&quot;sharedInput&quot;]</value>
-      <webElementGuid>5dffd69b-4718-4e47-a299-5a16ea8cd9ed</webElementGuid>
+      <webElementGuid>2a9da9ca-4ebb-4e65-86d1-3e6667abd868</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='password']</value>
-      <webElementGuid>db2af1b5-d311-419b-9bbb-6a91072c0653</webElementGuid>
+      <webElementGuid>a5640e6a-c2d0-4479-90fc-5dea538a21fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-label-input[2]/div/input</value>
-      <webElementGuid>699f184d-3b98-4a89-8f6a-6e1f5e280dee</webElementGuid>
+      <webElementGuid>6417967b-8075-46de-8200-e023d340048d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @placeholder = 'Your Password']</value>
-      <webElementGuid>2dffd174-438e-4799-b008-41668fcdf64a</webElementGuid>
+      <webElementGuid>b5ce6314-f023-4514-ab7b-2935c4ec7ccb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

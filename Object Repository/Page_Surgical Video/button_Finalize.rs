@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Confirm</name>
+   <name>button_Finalize</name>
    <tag></tag>
-   <elementGuidId>04136afb-fb05-4034-aed6-79525d8d75e2</elementGuidId>
+   <elementGuidId>51f80c67-4f92-48ba-85a7-1344a1051eba</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
+         <value>(//button[@type='button'])[19]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Confirm&quot;i]</value>
+         <value>app-advanced-features >> internal:role=button[name=&quot;Finalize&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3f79e627-dc67-45d4-8a59-11b3e8ac02ea</webElementGuid>
+      <webElementGuid>23812e34-bba0-4b27-9266-0f83cbac3235</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button primary-button</value>
-      <webElementGuid>e9c58262-29de-4a89-9033-f9330b4e5879</webElementGuid>
+      <webElementGuid>3038eb98-d207-4ac5-8f82-e6431372a188</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>ng-reflect-ng-style</name>
       <type>Main</type>
       <value>[object Object]</value>
-      <webElementGuid>1072a17e-50b9-4643-9d7f-fd30e1636b23</webElementGuid>
+      <webElementGuid>cd74567e-d40e-4215-833f-8ff3e8ec85eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,81 +53,73 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>213b27d6-0536-4e0a-850f-b01631e3ad35</webElementGuid>
+      <webElementGuid>e2018889-3d1e-43ea-92e8-8ef26d601c88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Confirm
+      <value> Finalize
 </value>
-      <webElementGuid>35863d77-ffa5-4eb6-b8b9-33d4a085e825</webElementGuid>
+      <webElementGuid>afd85d52-0006-480e-8281-6454e01790c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/app-layout[1]/app-top-panel[@class=&quot;top-panel&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;right-group&quot;]/app-popup-modal[1]/div[@class=&quot;modal-overlay ng-star-inserted&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-content no-close-padding&quot;]/app-logout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;logout-wrapper&quot;]/div[@class=&quot;logout-buttons&quot;]/app-button[@class=&quot;logout-button&quot;]/button[@class=&quot;button primary-button&quot;]</value>
-      <webElementGuid>0cfe4366-2625-44c2-bdbd-9c4cbe6b0436</webElementGuid>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[1]/app-layout[1]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;content&quot;]/app-video-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex-column&quot;]/div[@class=&quot;wrapper ng-star-inserted&quot;]/div[@class=&quot;video-and-notes-wrapper&quot;]/div[@class=&quot;advanced-features-wrapper ng-star-inserted&quot;]/app-advanced-features[1]/div[@class=&quot;advanced-features-container&quot;]/div[@class=&quot;advanced-feature&quot;]/div[@class=&quot;modal ng-star-inserted&quot;]/div[@class=&quot;advanced-features-modal-buttons&quot;]/app-button[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;button primary-button&quot;]</value>
+      <webElementGuid>80d82625-e214-4769-a7b2-21bcbf192106</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>1608eb81-119b-4d78-a978-5032528cd145</webElementGuid>
+      <value>(//button[@type='button'])[19]</value>
+      <webElementGuid>f3bfa3a5-5ef7-4900-bfb3-f0996396a8a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to logout?'])[1]/following::button[1]</value>
-      <webElementGuid>aee71d3b-2842-4015-852b-2f2c99f3b10e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Features Unavailable'])[1]/following::button[1]</value>
+      <webElementGuid>e6a51e6a-86ab-4ad6-871f-b66aa6a41734</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ee'])[1]/following::button[1]</value>
-      <webElementGuid>4e571785-5fa4-4524-b3c0-431d158dbc6f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Procedure Breakdown (BETA)'])[1]/following::button[1]</value>
+      <webElementGuid>afd0d505-73dc-468e-a58f-5efc351d7ff9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
-      <webElementGuid>a8363874-890d-4d81-ad19-e3057dbf1d60</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
-      <webElementGuid>eabac61a-d490-4754-8275-a6cd2e9369f8</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Finalize']/parent::*</value>
+      <webElementGuid>443831b4-d97f-4c40-a4fb-c46363e66c9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//app-logout/div/div/app-button/button</value>
-      <webElementGuid>da0c87ef-8e3a-44a5-bce8-1995be39e64d</webElementGuid>
+      <value>//div[3]/div/div/app-button/button</value>
+      <webElementGuid>950c7d2b-1654-44a9-bf1f-316f1999119b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = ' Confirm
-' or . = ' Confirm
+      <value>//button[@type = 'button' and (text() = ' Finalize
+' or . = ' Finalize
 ')]</value>
-      <webElementGuid>3080aebc-a1d7-4083-8360-f0f14bbde4f0</webElementGuid>
+      <webElementGuid>5b349a18-0ab2-4a3c-856a-96000a6773d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
